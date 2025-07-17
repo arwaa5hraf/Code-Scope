@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>arwa notes</title>
+</head>
+<body>
+MY HTML notes:
+<p>
+	html mark up is an element thet conataines these 	signs <,>,/ it has first an opening tag the some 	text then a matched closing tag added with the / 	sign. this all called an elemnt but somtiems its 	called an unspecifec name which is a tag
+</p>
+
+<h2>
+  lets try some: 
+</h2>
+<em>
+  here is emphasis markup
+</em>
+<br><br>
+<mark>
+  here is a mark markup
+</mark>
+<sup>
+  here is sup markup
+</sup>
+<h3>
+  <em> 
+     now i will show you the lists and its types:       </em>
+</h3>
+<p>
+	<ol>
+   	  <li>here
+   	  <li>is
+  	  <li> the orderd list
+  	</ol>
+and
+<ul>
+  <li>here is 
+  <li>the unorderd 
+  <li>list
+</ul>
+<p>
+  the p elemnt in line 9, we left off the closing tag   because when another element comes after it and it     cannot be nested into each other the browser will     automaticlly close the previous p element without     the nesccesity of a closing p tag
+<h3>
+	<em>
+      Nested lists:
+    </em>
+</h3>
+<ul>
+   <li>Mammals
+       <ol>
+          <li>Raccoons
+          <li>Gorillas
+       </ol>
+   <li>Reptiles
+     <ol>
+        <li>Iguanas
+        <li>Cobras
+     </ol>
+        <li>Birds
+     <ol>
+        <li>Ostriches
+        <li>Ravens
+    </ol>
+</ul>
+there is how you put a link <br>
+<a href="https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html">
+   granneman formatting indenting HTML
+</a><br><br>
+there is how you put a photo
+<img src="https://placebear.com/400/200" alt="pear photos">
+</body>
+  </html>
